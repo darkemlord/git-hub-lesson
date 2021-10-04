@@ -1,3 +1,2 @@
 git clone => we use it to save the project on git hub and also yoy can clone to your local machine from github
-
-sabor
+git add =>
