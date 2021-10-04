@@ -1,0 +1,6 @@
+h1{
+  color: white;
+  background: linear-gradient(red,blue,yellow);
+  text-align: center;
+  border-radius: 2rem;
+}

@@ -1,5 +1,7 @@
 git clone => we use it to save the project on git hub and also yoy can clone to your local machine from github
 git add =>
+git commit =>
+git log =>
+git push =>
 
-
-gh repo create => create a repository from the terminal
+gh repo create project_name => create a repository from the terminal
